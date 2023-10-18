@@ -11,3 +11,6 @@
 
 # Setup
 1. Create admin user with 'python manage.py createsuperuser'
+
+# Dev setup
+2. Make sure to add setting ""python.analysis.typeCheckingMode": "basic"" 
